@@ -5,5 +5,6 @@ class File2 {
         Scanner sc = new Scanner(System.in);
         String S = sc.nextLine();
         System.out.println(Scanner);
+        System.out.println("this is code3");
     }
 }
